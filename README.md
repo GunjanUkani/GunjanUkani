@@ -6,6 +6,11 @@
 - 💡 **Focus Areas:** Building reusable components, optimizing performance, and creating seamless user experiences with clean code practices.  
 - 📫 **Reach Out to Me:** Let's connect! Feel free to drop me an email at **gunjanukani456@gmail.com**.  
 
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,nodejs,express,mongodb,js,ts,git,github,vscode,firebase&perline=7" />
+</p>
 ---
 
 ✨ “Passion drives excellence, and I strive to create applications that make an impact.”  
