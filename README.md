@@ -11,6 +11,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,nodejs,express,mongodb,js,ts,git,github,vscode,firebase&perline=7" />
 </p>
----
+
 
 ✨ “Passion drives excellence, and I strive to create applications that make an impact.”  
